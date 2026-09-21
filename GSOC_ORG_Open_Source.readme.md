@@ -20,8 +20,6 @@ https://github.com/apache/arrow/issues
 
 https://github.com/openvinotoolkit/openvino/issues/36695
 
-دي المشكله اللي انا كاتب عليها عايز احلها 
-شركه تانيه  OpenVINO Toolkit  
 
 
 
