@@ -37,20 +37,13 @@ https://github.com/kubevirt/kubevirt/issues
 ## OSGeo:
 https://github.com/OSGeo/gdal/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22not%20for%20AI%20lovers%22
 
-## fossasia:
-https://github.com/orgs/fossasia/repositories
-
 ## ardupilot:
 https://github.com/ardupilot/ardupilot
-
-## internetarchive:
-https://github.com/orgs/internetarchive/repositories
-
 
 ## cern-hsf:
 https://summerofcode.withgoogle.com/programs/2026/organizations/cern-hsf
 
-## metasploit:
+## metasploit (perority remove):
 https://github.com/rapid7/metasploit-framework/pulls
 
 ## aboutcode:
