@@ -1,4 +1,4 @@
-
+three org done before the ad and after ad other three if i have energy  
 # GSOC:
 ## apache:
 https://github.com/apache/airflow
@@ -31,7 +31,7 @@ https://github.com/apache/gluten
 ## open suse:
 https://github.com/openSUSE/libzypp 
 
-## kubevirt:
+## kubevirt (perority remove):
 https://github.com/kubevirt/kubevirt/issues
 
 ## OSGeo:
