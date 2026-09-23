@@ -66,22 +66,22 @@ https://github.com/orgs/OWASP/repositories
 ## openmrs (perority remove):
 https://github.com/orgs/openmrs/repositories
 
- ## MariaDB
+ ## MariaDB (perority remove)
 
 ## OpenStreetMap:
 https://github.com/openstreetmap
 
-## AFLplusplus:
+## AFLplusplus (perority remove) :
 https://github.com/AFLplusplus
 
 
-## cBioPortal for Cancer Genomics:
+## cBioPortal for Cancer Genomics (perority remove) :
 https://github.com/cBioPortal/cbioportal
 
- ## SymPy:
+ ## SymPy  (perority remove)  :
  https://github.com/sympy/sympy/issues
 
- ## MDAnalysis:
+ ## MDAnalysis (perority remove) :
  https://github.com/MDAnalysis/mdanalysis
 
   ## OpenAstronomy:
@@ -90,7 +90,7 @@ https://github.com/cBioPortal/cbioportal
   ## PEcAn Project:
 https://github.com/pecanproject
 
-## 52°North Spatial Information Research GmbH:
+## 52°North Spatial Information Research GmbH (perority remove) :
 https://github.com/52North/SOS
 
 
@@ -98,7 +98,7 @@ https://github.com/52North/SOS
 https://github.com/libreswan/libreswan
 
 
-## Wagtail:
+## Wagtail (perority remove)  :
 https://github.com/wagtail/wagtail 
 
 
