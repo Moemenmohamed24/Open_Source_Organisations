@@ -63,7 +63,7 @@ https://www.postgresql.org/account/auth/9/?d=I2lT8qmHhiyN2Yi9jkJTmw%3D%3D%24zUI-
 ## OWASP:
 https://github.com/orgs/OWASP/repositories
 
-## openmrs:
+## openmrs (perority remove):
 https://github.com/orgs/openmrs/repositories
 
  ## MariaDB
