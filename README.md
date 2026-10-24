@@ -1,5 +1,5 @@
 github.com/apache/arrow/issues/50919
-
+https://tracker.ceph.com/issues/81667#change-376227 
 إيه اللي نعرفه من وصف الـ Bug؟
 - المشروع الفرعي: RGW — بوابة تخزين الكائنات في Ceph.
 - الجزء المعني: Multisite metadata synchronization.
