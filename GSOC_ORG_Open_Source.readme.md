@@ -90,10 +90,6 @@ https://github.com/cBioPortal/cbioportal
   ## PEcAn Project:
 https://github.com/pecanproject
 
-## 52°North Spatial Information Research GmbH (perority remove) :
-https://github.com/52North/SOS
-
-
 ## The Libreswan Project :
 https://github.com/libreswan/libreswan
 
