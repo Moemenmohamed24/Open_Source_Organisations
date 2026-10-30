@@ -87,8 +87,6 @@ https://github.com/cBioPortal/cbioportal
   ## OpenAstronomy:
   https://github.com/OpenAstronomy 
 
-  ## PEcAn Project:
-https://github.com/pecanproject
 
 ## The Libreswan Project :
 https://github.com/libreswan/libreswan
