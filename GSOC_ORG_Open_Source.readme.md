@@ -31,8 +31,6 @@ https://github.com/apache/gluten
 ## open suse:
 https://github.com/openSUSE/libzypp 
 
-## kubevirt (perority remove):
-https://github.com/kubevirt/kubevirt/issues
 
 ## OSGeo:
 https://github.com/OSGeo/gdal/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22not%20for%20AI%20lovers%22
@@ -55,7 +53,7 @@ https://tracker.ceph.com/projects?jump=my
 ## OWASP:
 https://github.com/orgs/OWASP/repositories
 
-## openmrs (perority remove):
+## openmrs (perority good):
 https://github.com/orgs/openmrs/repositories
 
  ## MariaDB 
