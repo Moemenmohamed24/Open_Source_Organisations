@@ -25,8 +25,7 @@ https://github.com/openvinotoolkit/openvino/issues/36695
 https://github.com/apache/gluten
 
 
-## <------------------------------------------------------------------------------>
-
+## <=============================================================>
 
 ## open suse:
 https://github.com/openSUSE/libzypp 
@@ -50,13 +49,8 @@ https://github.com/ceph
 
 https://tracker.ceph.com/projects?jump=my 
 
-## OWASP:
-https://github.com/orgs/OWASP/repositories
-
 ## openmrs (perority good):
 https://github.com/orgs/openmrs/repositories
-
- ## MariaDB 
 
 ## OpenStreetMap:
 https://github.com/openstreetmap
@@ -74,9 +68,7 @@ https://github.com/cBioPortal/cbioportal
 https://github.com/libreswan/libreswan
 
 
-
-
-## <=======================================================================================>
+## <=============================================================>
  ## MariaDB 
  
 ## PostgreSQL :
