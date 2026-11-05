@@ -40,11 +40,6 @@ https://github.com/OSGeo/gdal/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22no
 ## ardupilot:
 https://github.com/ardupilot/ardupilot
 
-## cern-hsf:
-https://summerofcode.withgoogle.com/programs/2026/organizations/cern-hsf
-
-## metasploit (perority remove):
-https://github.com/rapid7/metasploit-framework/pulls
 
 ## aboutcode:
 https://github.com/aboutcode-org/scancode.io
@@ -57,32 +52,21 @@ https://github.com/ceph
 
 https://tracker.ceph.com/projects?jump=my 
 
-## PostgreSQL :
-https://www.postgresql.org/account/auth/9/?d=I2lT8qmHhiyN2Yi9jkJTmw%3D%3D%24zUI-hUrfBqjWiHk4mjsiqMsi%24FgOoeUiJrTAg-ch3ccycsg%3D%3D
-
 ## OWASP:
 https://github.com/orgs/OWASP/repositories
 
 ## openmrs (perority remove):
 https://github.com/orgs/openmrs/repositories
 
- ## MariaDB (perority remove)
+ ## MariaDB 
 
 ## OpenStreetMap:
 https://github.com/openstreetmap
 
-## AFLplusplus (perority remove) :
-https://github.com/AFLplusplus
 
-
-## cBioPortal for Cancer Genomics (perority remove) :
+## cBioPortal for Cancer Genomics  :
 https://github.com/cBioPortal/cbioportal
 
- ## SymPy  (perority remove)  :
- https://github.com/sympy/sympy/issues
-
- ## MDAnalysis (perority remove) :
- https://github.com/MDAnalysis/mdanalysis
 
   ## OpenAstronomy:
   https://github.com/OpenAstronomy 
@@ -92,7 +76,30 @@ https://github.com/cBioPortal/cbioportal
 https://github.com/libreswan/libreswan
 
 
-## Wagtail (perority remove)  :
-https://github.com/wagtail/wagtail 
 
 
+## <=======================================================================================>
+ ## MariaDB 
+ 
+## PostgreSQL :
+https://www.postgresql.org/account/auth/9/?d=I2lT8qmHhiyN2Yi9jkJTmw%3D%3D%24zUI-hUrfBqjWiHk4mjsiqMsi%24FgOoeUiJrTAg-ch3ccycsg%3D%3D
+
+## cern-hsf:
+https://summerofcode.withgoogle.com/programs/2026/organizations/cern-hsf
+
+## open suse:
+https://github.com/openSUSE/libzypp 
+
+## ceph : 
+https://github.com/ceph
+
+https://tracker.ceph.com/projects?jump=my 
+
+## OSGeo:
+https://github.com/OSGeo/gdal/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22not%20for%20AI%20lovers%22 
+
+## OWASP:
+https://github.com/orgs/OWASP/repositories
+
+## OpenStreetMap:
+https://github.com/openstreetmap
