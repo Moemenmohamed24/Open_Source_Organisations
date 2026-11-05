@@ -27,9 +27,6 @@ https://github.com/apache/gluten
 
 ## <=============================================================>
 
-## OSGeo:
-https://github.com/OSGeo/gdal/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22not%20for%20AI%20lovers%22
-
 ## ardupilot:
 https://github.com/ardupilot/ardupilot
 
@@ -39,11 +36,6 @@ https://github.com/aboutcode-org/scancode.io
 
 ## rizinorg:
 https://github.com/rizinorg/cutter/issues
-
-## ceph : 
-https://github.com/ceph
-
-https://tracker.ceph.com/projects?jump=my 
 
 ## openmrs (perority good):
 https://github.com/orgs/openmrs/repositories
