@@ -52,10 +52,6 @@ https://github.com/cBioPortal/cbioportal
   https://github.com/OpenAstronomy 
 
 
-## The Libreswan Project :
-https://github.com/libreswan/libreswan
-
-
 ## <=============================================================>
  ## MariaDB 
  
