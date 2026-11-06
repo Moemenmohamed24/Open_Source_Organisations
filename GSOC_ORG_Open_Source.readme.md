@@ -64,3 +64,22 @@ https://github.com/orgs/OWASP/repositories
 
 ## ardupilot:
 https://github.com/ardupilot/ardupilot
+
+
+#------------------------------------------------------------------
+# أولوية أساسية:
+1	MariaDB	
+2	PostgreSQL	
+3	Ceph	 
+4	CERN-HSF	 
+5	OpenVINO Toolkit	
+# أولوية مرتفعة :
+6	openSUSE / libzypp	 
+7	OpenStreetMap	  
+8	ArduPilot	 
+9	OpenMRS	
+10	OWASP	  
+# أولوية أقل:
+11	OpenAstronomy	
+12	OSGeo	 
+13	cBioPortal	 
