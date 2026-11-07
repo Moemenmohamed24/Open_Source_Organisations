@@ -1,16 +1,12 @@
 three org done before the ad and after ad other three if i have energy  
 # GSOC:
 ## apache:
-https://github.com/apache/airflow
-
-فيه اكتر كتير
 https://github.com/apache/ 
+https://github.com/apache/kafka
+(users@infra.apache.org)
+https://github.com/apache/rocketmq/issues/
+https://github.com/apache/cassandra
 
-
-https://github.com/apache/doris/issues 
-c++
-
-فيها كذا ريبو C++ and C#
 https://github.com/apache/airflow/issues/69023 
 مشكه انا عامل عليها تعليق
 
