@@ -12,9 +12,6 @@ https://github.com/apache/rocketmq/issues/
 https://github.com/apache/cassandra
 
 
-https://github.com/apache/airflow/issues/69023 
-مشكه انا عامل عليها تعليق
-
 https://github.com/apache/arrow/issues 
 مليان مشاكل c++
 ## openvinotoolkit:
