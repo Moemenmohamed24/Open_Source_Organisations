@@ -13,6 +13,7 @@ https://github.com/apache/rocketmq/issues/
 
 https://github.com/apache/cassandra
 
+https://issues.apache.org/jira/issues/?jql=project%20%3D%20CASSANDRA%20AND%20resolution%20%3D%20Unresolved%20ORDER%20BY%20priority%20DESC%2C%20updated%20DESC
 
 https://github.com/apache/arrow/issues 
 مليان مشاكل c++
