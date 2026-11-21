@@ -16,4 +16,5 @@ https://issues.apache.org/jira/browse/KAFKA-21592
 
 # arrow :
 https://github.com/apache/arrow/issues/55661
+
 https://github.com/apache/arrow/issues/55688 
