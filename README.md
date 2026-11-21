@@ -9,3 +9,4 @@ https://tracker.ceph.com/issues/81667#change-376227
 
 # KAFKA:
 https://issues.apache.org/jira/browse/KAFKA-21594 
+https://issues.apache.org/jira/browse/KAFKA-21594
