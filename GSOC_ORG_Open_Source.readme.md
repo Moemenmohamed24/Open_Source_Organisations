@@ -5,7 +5,7 @@ https://github.com/apache/
 
 https://github.com/apache/kafka
 
-https://issues.apache.org/jira/secure/Dashboard.jspa
+https://issues.apache.org/jira/browse/KAFKA-21608?jql=project%20%3D%20KAFKA (can search about any projects in apatche)
 
 (users@infra.apache.org)
 
