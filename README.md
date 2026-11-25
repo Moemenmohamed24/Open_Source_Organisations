@@ -12,3 +12,10 @@ https://issues.apache.org/jira/browse/KAFKA-21592
 https://github.com/apache/arrow/issues/55661
 
 https://github.com/apache/arrow/issues/55688 
+
+
+# openSUSE:
+https://github.com/openSUSE/open-build-service/issues/18396
+
+https://github.com/openSUSE/open-build-service/issues/17958
+
