@@ -5,7 +5,7 @@ https://github.com/apache/
 
 https://github.com/apache/kafka
 
-https://issues.apache.org/jira/browse/KAFKA-21608?jql=project%20%3D%20KAFKA (can search about any projects in apatche)
+https://issues.apache.org/jira/browse/KAFKA-21608?jql=project%20%3D%20KAFKA (can search about any projects in apache)
 
 (users@infra.apache.org)
 
@@ -51,7 +51,6 @@ https://www.postgresql.org/account/auth/9/?d=I2lT8qmHhiyN2Yi9jkJTmw%3D%3D%24zUI-
 1. Apache Kafka
 2. Ceph
 3. Apache RocketMQ
-4. OpenMRS
 5. Apache Cassandra
 6. PostgreSQL
 7. OpenVINO Toolkit
