@@ -22,12 +22,7 @@ https://github.com/apache/arrow/issues
 https://github.com/openvinotoolkit/openvino/issues/36695
 
 
-
 ## <========================================================>
-
-## cern-hsf:
-https://summerofcode.withgoogle.com/programs/2026/organizations/cern-hsf
-
 
 ## ceph : 
 https://github.com/ceph
@@ -54,7 +49,6 @@ https://www.postgresql.org/account/auth/9/?d=I2lT8qmHhiyN2Yi9jkJTmw%3D%3D%24zUI-
 5. Apache Cassandra
 6. PostgreSQL
 7. OpenVINO Toolkit
-8. CERN-HSF
 9. MariaDB
 10. openSUSE / libzypp
 11. OWASP
